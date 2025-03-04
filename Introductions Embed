@@ -1,0 +1,280 @@
+{
+  "content": "> 𓈒ㅤׂ 𝜗𝜚\n> ‎                  welcome | bem vindo .ᐟ\n> ‎                            introduction \n> ‎                           ⋆｡𖦹°.🐚⋆❀˖°\n> \n> ‎                         ˚ ༘ ೀ⋆｡˚ᨒ₊˚ෆ",
+  "tts": false,
+  "embeds": [
+    {
+      "id": 990007034,
+      "title": "Pronouns ⋆❀˖°",
+      "description": "📘 ⟢ <@&1345541603879817296>\n📕 ⟢ <@&1345541643234709514>\n📙 ⟢ <@&1345541683562942515>\n📗 ⟢ <@&1345541710780043345>",
+      "color": 5264475,
+      "thumbnail": {
+        "url": "https://message.style/cdn/images/8b7c34a6e162fe73d15bd2c369e3a138b56d811563f5defc2ed8e8fe31c7e1b4.png"
+      },
+      "fields": []
+    },
+    {
+      "id": 301033930,
+      "title": "Age ⋆❀˖°",
+      "description": "🚕 ⟢ <@&1345543777451774023>\n🚗 ⟢ <@&1345543843122253935>\n🚙 ⟢ <@&1345543916073517066>",
+      "color": 5264475,
+      "thumbnail": {
+        "url": "https://message.style/cdn/images/20414abf873c5089f88c9b6508c8887f8d155c3d33699e1e77ebc3fddb4148e8.png"
+      },
+      "fields": []
+    },
+    {
+      "id": 86761932,
+      "title": "Pings ⋆❀˖°",
+      "description": "🎟️ ⟢ <@&1345546542949470308>\n🎮 ⟢ <@&1345546052966678599>\n🎉 ⟢ <@&1345546600122159125>",
+      "color": 5264475,
+      "thumbnail": {
+        "url": "https://message.style/cdn/images/74495646b3bba861b0ed1a019521b9f56ee44ff907130fc111527be1b4e04d82.png"
+      },
+      "fields": []
+    }
+  ],
+  "components": [
+    {
+      "id": 791947202,
+      "type": 1,
+      "components": [
+        {
+          "id": 399683406,
+          "type": 2,
+          "style": 2,
+          "label": "",
+          "emoji": {
+            "name": "📘",
+            "animated": false
+          },
+          "action_set_id": "366771998"
+        },
+        {
+          "id": 451619746,
+          "type": 2,
+          "style": 2,
+          "label": "",
+          "emoji": {
+            "name": "📕",
+            "animated": false
+          },
+          "action_set_id": "428490375"
+        },
+        {
+          "id": 393344713,
+          "type": 2,
+          "style": 2,
+          "label": "",
+          "emoji": {
+            "name": "📙",
+            "animated": false
+          },
+          "action_set_id": "879363893"
+        },
+        {
+          "id": 16866532,
+          "type": 2,
+          "style": 2,
+          "label": "",
+          "emoji": {
+            "name": "📗",
+            "animated": false
+          },
+          "action_set_id": "528719951"
+        }
+      ]
+    },
+    {
+      "id": 191106555,
+      "type": 1,
+      "components": [
+        {
+          "id": 949204254,
+          "type": 2,
+          "style": 2,
+          "label": "",
+          "emoji": {
+            "name": "🚖",
+            "animated": false
+          },
+          "action_set_id": "641562729"
+        },
+        {
+          "id": 990434787,
+          "type": 2,
+          "style": 2,
+          "label": "",
+          "emoji": {
+            "name": "🚗",
+            "animated": false
+          },
+          "action_set_id": "990360806"
+        },
+        {
+          "id": 127383353,
+          "type": 2,
+          "style": 2,
+          "label": "",
+          "emoji": {
+            "name": "🚙",
+            "animated": false
+          },
+          "action_set_id": "658203671"
+        }
+      ]
+    },
+    {
+      "id": 982221359,
+      "type": 1,
+      "components": [
+        {
+          "id": 166089878,
+          "type": 2,
+          "style": 2,
+          "label": "",
+          "emoji": {
+            "name": "🎫",
+            "animated": false
+          },
+          "action_set_id": "678444791"
+        },
+        {
+          "id": 484383961,
+          "type": 2,
+          "style": 2,
+          "label": "",
+          "emoji": {
+            "name": "🎮",
+            "animated": false
+          },
+          "action_set_id": "232152819"
+        },
+        {
+          "id": 759928039,
+          "type": 2,
+          "style": 2,
+          "label": "",
+          "emoji": {
+            "name": "🎉",
+            "animated": false
+          },
+          "action_set_id": "451395119"
+        }
+      ]
+    }
+  ],
+  "actions": {
+    "232152819": {
+      "actions": [
+        {
+          "type": 2,
+          "id": 514452322,
+          "target_id": "1345546052966678599",
+          "public": false,
+          "disable_default_response": false
+        }
+      ]
+    },
+    "366771998": {
+      "actions": [
+        {
+          "type": 2,
+          "id": 964397443,
+          "target_id": "1345541603879817296",
+          "public": false,
+          "disable_default_response": false
+        }
+      ]
+    },
+    "428490375": {
+      "actions": [
+        {
+          "type": 2,
+          "id": 964397443,
+          "target_id": "1345541643234709514",
+          "public": false,
+          "disable_default_response": false
+        }
+      ]
+    },
+    "451395119": {
+      "actions": [
+        {
+          "type": 2,
+          "id": 514452322,
+          "target_id": "1345546600122159125",
+          "public": false,
+          "disable_default_response": false
+        }
+      ]
+    },
+    "528719951": {
+      "actions": [
+        {
+          "type": 2,
+          "id": 964397443,
+          "target_id": "1345541710780043345",
+          "public": false,
+          "disable_default_response": false
+        }
+      ]
+    },
+    "641562729": {
+      "actions": [
+        {
+          "type": 2,
+          "id": 596782944,
+          "target_id": "1345543777451774023",
+          "public": false,
+          "disable_default_response": false
+        }
+      ]
+    },
+    "658203671": {
+      "actions": [
+        {
+          "type": 2,
+          "id": 596782944,
+          "target_id": "1345543916073517066",
+          "public": false,
+          "disable_default_response": false
+        }
+      ]
+    },
+    "678444791": {
+      "actions": [
+        {
+          "type": 2,
+          "id": 514452322,
+          "target_id": "1345546542949470308",
+          "public": false,
+          "disable_default_response": false
+        }
+      ]
+    },
+    "879363893": {
+      "actions": [
+        {
+          "type": 2,
+          "id": 964397443,
+          "target_id": "1345541683562942515",
+          "public": false,
+          "disable_default_response": false
+        }
+      ]
+    },
+    "990360806": {
+      "actions": [
+        {
+          "type": 2,
+          "id": 596782944,
+          "target_id": "1345543843122253935",
+          "public": false,
+          "disable_default_response": false
+        }
+      ]
+    }
+  },
+  "username": "ᨒ ོ ☼ Island Keeper ｡𖦹°‧",
+  "avatar_url": "https://message.style/cdn/images/55295de51806c354c5a98cc8f18fd34a7400f4be345afc2e9571710611eebb80.png"
+}
