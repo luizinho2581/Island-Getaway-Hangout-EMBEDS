@@ -22,3 +22,4 @@ To send the message, simply press the send message button. Be sure the bot has p
 ![image](https://github.com/user-attachments/assets/f9e11cb6-8543-4172-9836-a61cdc4843d5)
 
 In case of any questions, check the Bot's FAQ on the website.
+Be sure to edit the roles ID before sending the embed.
